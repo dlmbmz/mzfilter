@@ -1,16 +1,18 @@
 # mzfilter
-This is an email filter
+This is an email filter.
 
-Current status:
+<b>Current status:</b> <br>
 Currently the orchestrator only returns a message.
 
-Important notes:  I am using XP
+<b>Important notes:</b> <br>
+I am using XP
 
-Important commands:
-npm run test
+<b>Important commands:</b> <br>
+npm run test <br>
+npm run build <br>
+node dist/src/main.js
 
-
-git add <file>
-git commit -m "<message>"
-git push
+git add \<file\> <br>
+git commit -m "\<message\>" <br>
+git push <br>
 git satus
