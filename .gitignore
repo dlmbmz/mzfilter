@@ -1,0 +1,30 @@
+# Node / TypeScript
+node_modules/
+dist/
+*.log
+*.tsbuildinfo
+
+# Environment & secrets
+.env
+.env.*
+!.env.template
+
+# Coverage reports
+coverage/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test output
+*.test.js
+*.spec.js
+
+# n8n / misc
+.n8n/
+data/
+
+# Optional: lock files (keep if you want deterministic builds)
+# package-lock.json
